@@ -1,0 +1,13 @@
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\bernabe.kumul\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ariel.aguirre\Downloads\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
